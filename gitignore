@@ -1,0 +1,5 @@
+.env
+users_2fa_*.csv
+2fa_change_results_*.csv
+__pycache__/
+*.pyc
